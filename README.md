@@ -9,7 +9,7 @@ Using an punch animation.
 -- Requires the AnimationLib MainModule from roblox
 local AnimationLib = require(108128765219659)
 
--- Gets an serialized animation from the project repo
+-- Gets an serialized example animation from the project repo
 local animation = game:HttpGet("https://raw.githubusercontent.com/loglizzy/rbx-animation-lib/refs/heads/main/animations/Rock%20Breaking%20Punch.txt")
 
 -- Loads & play the animation
