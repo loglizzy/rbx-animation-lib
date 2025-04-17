@@ -23,5 +23,5 @@ animation:Play()
 2. Once you have the animation you can upload the raw result to somewhere like [pastebin.com](https://pastebin.com/) and load it like in the example by just switching it to your uploaded animation url.
 ```lua
 local animation = game:HttpGet("YOUR_ANIMATION_URL_HERE")
-...
+-- ... do just like in the example
 ```
