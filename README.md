@@ -1,6 +1,8 @@
 # rbx-animation-lib
 Library to play any animation in game with an executor.
 
+Credits to the guy who made the [KeyframeSequence to Animation converter](https://devforum.roblox.com/t/keyframesequance-to-animation-v4/3137384).
+
 # Example
 Using an punch animation.
 ```lua
