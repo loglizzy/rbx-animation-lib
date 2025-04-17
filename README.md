@@ -25,5 +25,3 @@ animation:Play()
 local animation = game:HttpGet("YOUR_ANIMATION_URL_HERE")
 ...
 ```
-
-3. Be happy
