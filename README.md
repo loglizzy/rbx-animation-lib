@@ -25,3 +25,5 @@ animation:Play()
 local animation = game:HttpGet("YOUR_ANIMATION_URL_HERE")
 -- ... do just like in the example
 ```
+
+Got any bugs? Open an issue at this repository and i may fix it in the same day.
