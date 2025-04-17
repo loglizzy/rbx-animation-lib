@@ -2,7 +2,8 @@
 Library to play any animation in game with an executor.
 
 # Example
-How to 
+Using an punch animation.
+Works virtually any game.
 ```lua
 local AnimationLib = require(108128765219659)
 
