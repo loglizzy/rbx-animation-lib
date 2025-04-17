@@ -17,6 +17,6 @@ animation = AnimationLib.UnserializeToAnimation(workspace.Rig, animation)
 animation:Play()
 ```
 
-To use another animation just grab (Animation serializer script)[https://github.com/loglizzy/rbx-animation-lib/blob/main/Animation%20serializer%20script.rbxm] and run it in a roblox studio place.
+To use another animation just grab [Animation serializer script](https://github.com/loglizzy/rbx-animation-lib/blob/main/Animation%20serializer%20script.rbxm) and run it in a roblox studio place.
 
-Once you have the animation you can upload it somewhere like [https://pastebin.com/] and load it like in the example by just applying your uploaded animation url.
+Once you have the animation you can upload it somewhere like [pastebin.com](https://pastebin.com/) and load it like in the example by just applying your uploaded animation url.
