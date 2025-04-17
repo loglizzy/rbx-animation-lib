@@ -17,7 +17,8 @@ animation = AnimationLib.UnserializeToAnimation(workspace.Rig, animation)
 animation:Play()
 ```
 
-To use another animation just place the [Animation serializer script](https://github.com/loglizzy/rbx-animation-lib/blob/main/Animation%20serializer%20script.rbxm) in a roblox studio place, put your animation KeyframeSequence inside the script, run it and check the console(F9) for the results.
+# Usage
+To use an animation just place the [Animation serializer script](https://github.com/loglizzy/rbx-animation-lib/blob/main/Animation%20serializer%20script.rbxm) in a roblox studio place, put your animation KeyframeSequence inside the script, run it and check the console(F9) for the results.
 
 Once you have the animation you can upload the raw result to somewhere like [pastebin.com](https://pastebin.com/) and load it like in the example by just switching it to your uploaded animation url.
 ```lua
