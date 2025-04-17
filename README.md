@@ -6,6 +6,7 @@ Works virtually any roblox game.
 # Example
 Using an punch animation.
 ```lua
+-- Requires the AnimationLib MainModule from roblox
 local AnimationLib = require(108128765219659)
 
 -- Gets an serialized animation from the project repo
